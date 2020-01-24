@@ -1,2 +1,2 @@
 # Backend-Projeto
-Backend do projeto integrador 
+Repositório criado para armazenar os dados do Back End do projeto integrador da Generation Brasil.
